@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aiko Mei McCarthy
-- I’m interested in Unity and Unreal Engine. 
+- I’m interested in Game Development and Computer Science 
 - I’m currently a Game Design Student
   
 - 📫 How to reach me: mccarthyaiko@gmail.com
