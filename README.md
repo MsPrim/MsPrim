@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Aiko Mei McCarthy
+- 👋 Hi
 - I’m a Game Developer/Game Designer
-- I’m currently a Game Design Student
-  
-- 📫 How to reach me: mccarthyaiko@gmail.com
 
 <!---
 MsPrim/MsPrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
